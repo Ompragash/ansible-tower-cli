@@ -1,8 +1,8 @@
-##Installation:
+## Installation:
 
 `# pip install ansible-tower-cli`
 
-##Config:
+## Config:
 
 `# tower-cli config host tower_server`
 `# tower-cli config username user_name`
